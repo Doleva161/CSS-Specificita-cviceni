@@ -8,7 +8,7 @@ div>h5 {
     margin-bottom: 1rem;
 }
 
-body div .card a[href="#"] {
+body .card .card-body .btn-primary{
     background-color: #b10849;
     border: #b10849;
 }
