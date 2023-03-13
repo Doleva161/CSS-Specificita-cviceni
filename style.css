@@ -1,0 +1,14 @@
+body div.card {
+    padding: 1rem 1.5rem;
+    background-color: #fff0ee;
+}
+
+div>h5 {
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+
+body div .card a[href="#"] {
+    background-color: #b10849;
+    border: #b10849;
+}
